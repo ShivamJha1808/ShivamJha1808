@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShivamJha1808
 - 👀 I’m interested in Arduino, Web Development, Android Development
-- 🌱 I’m currently learning C++, HTML, Java, CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++, Java, Competetive Programing
+- 💞️ I’m looking to collaborate on Anything and EveryThing
 - 📫 How to reach me e-mail me at shivamjsr18@gmail.com
 
 <!---
