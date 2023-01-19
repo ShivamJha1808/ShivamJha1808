@@ -2,7 +2,7 @@
 - 👀 I’m interested in Arduino, Web Development, Android Development
 - 🌱 I’m currently learning C++, Java, Competetive Programing
 - 💞️ I’m looking to collaborate on Anything and EveryThing
-- 📫 How to reach me e-mail me at shivamjsr18@gmail.com
+- 📫 E-mail me at shivamjsr18@gmail.com
 
 <!---
 ShivamJha1808/ShivamJha1808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
